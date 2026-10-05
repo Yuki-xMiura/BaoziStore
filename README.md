@@ -5,7 +5,6 @@
 > **Disciplina**: Desenvolvimento Web Back-End  
 > **Professora**: Luciane Kanashiro, Me.  
 > **Estudante**: Yuki Fernando Miura  
-> **RU**: 4976495  
 
 ---
 
@@ -137,7 +136,7 @@ Com a aplicação rodando, acesse o painel visual do H2 Console pelo navegador:
 ### 1. Cadastrar Cliente (`POST /clientes`)
 ```json
 {
-  "nome": "Yuki4976495",
+  "nome": "Yuki",
   "clienteDesde": "2026-10-05"
 }
 ```
